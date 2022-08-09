@@ -20,3 +20,7 @@ end
 appraise "rails-5.1.1" do
   gem "rails", "5.1.1"
 end
+
+appraise "rails-7.0.3" do
+  gem "rails", "7.0.3"
+end

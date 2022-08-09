@@ -4,6 +4,10 @@
 
 This is here for historical reasons. Please refer to [Releases](https://github.com/inossidabile/wash_out/releases) page to get actual information.
 
+## 0.12.1
+
+* Removes hard coded tns: prefix from the response tag name [@kevinbeck][]
+
 ## 0.7.1
 
 * Parser switcher [@inossidabile][]
